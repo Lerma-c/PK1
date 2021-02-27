@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(https://fonts.google.com/specimen/Kumbh+Sans);
 
 body{
@@ -58,4 +59,11 @@ font-weight: 400;
 }
 #center{
     margin: auto;
+=======
+body{
+    background-image: url(../images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat;
+    background-color: hsl(185, 75%, 39%);
+    
+>>>>>>> 76783628ec8580f1504c0f9d50a158d03b34273a
 }
