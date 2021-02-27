@@ -1,0 +1,61 @@
+@import url(https://fonts.google.com/specimen/Kumbh+Sans);
+
+body{
+    background-image: url(../images/bg-pattern-bottom.svg);
+    background-color: hsl(185, 75%, 39%);
+    background-size: 50%;
+    background-repeat: space;
+    font-family: "Kumbh Sans";
+}
+.div_contenedor{
+    background: crimson;
+    height: 100vh;
+}
+#profile-image{
+    border-radius: 50%;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+    width: 100px;       
+    height: 100px;
+    margin: 0 auto;
+}
+#cont-imgprofile{
+    display: flex; 
+    position: relative;
+    justify-content: center;
+    top: -61px;
+}
+#card{
+    width: 350px;       
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -175px;
+    border-radius: 3%;
+    background-color: white;
+}
+#topcard{
+align-self: stretch;
+margin: 0px;
+
+}
+#imgtopcard{
+    border-radius: 3% 3% 0 0;
+}
+#info{
+   
+}
+#p1{
+font-size: 18px;
+font-weight: 700;
+}
+#p2{
+    font-size: 18px;
+font-weight: 400;
+}
+#center{
+    margin: auto;
+}
