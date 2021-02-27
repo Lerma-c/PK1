@@ -5,6 +5,7 @@ body{
     background-size: 50%;
     background-repeat: space;
     font-family: "Kumbh Sans", sans-serif;
+    font-size: 18px;
 }
 .div_contenedor{
     background: crimson;
@@ -61,10 +62,12 @@ display: inline;
 margin: 0;
 }
 #p2{
-    font-size: 18px;
+    font-size: 16px;
 font-weight: 400;
 display: inline;
 margin: 0;
+color: hsl(0, 0%, 59%);
+
 }
 #center{
     margin: auto;
